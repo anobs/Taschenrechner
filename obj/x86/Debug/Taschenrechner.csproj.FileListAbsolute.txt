@@ -1,0 +1,10 @@
+C:\data\c.NET\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\data\c.NET\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\data\c.NET\Taschenrechner\Taschenrechner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\data\c.NET\Taschenrechner\Taschenrechner\obj\x86\Debug\Taschenrechner.exe
+C:\data\c.NET\Taschenrechner\Taschenrechner\obj\x86\Debug\Taschenrechner.pdb
+D:\csharp.net\Taschenrechner\Taschenrechner\obj\x86\Debug\Taschenrechner.exe
+D:\csharp.net\Taschenrechner\Taschenrechner\obj\x86\Debug\Taschenrechner.pdb
+D:\csharp.net\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+D:\csharp.net\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+D:\csharp.net\Taschenrechner\Taschenrechner\obj\x86\Debug\Taschenrechner.csprojResolveAssemblyReference.cache
